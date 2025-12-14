@@ -6,12 +6,11 @@ Currently exploring **cloud-native architecture**, **serverless**, and **high-pe
 
 ---
 
-## 🎥 Hiii
+
 <p align="center">
-  <a href="[https://www.youtube.com/watch?v=VIDEO_ID_KAMU](https://www.pinterest.com/pin/majo-no-tabitabi-the-journey-of-elaina-gif-majonotabitabi-thejourneyofelaina-elaina-discover-share-gifs--587438345144538295/)">
-    <img src="[https://img.youtube.com/vi/VIDEO_ID_KAMU/0.jpg](https://www.pinterest.com/pin/majo-no-tabitabi-the-journey-of-elaina-gif-majonotabitabi-thejourneyofelaina-elaina-discover-share-gifs--587438345144538295/)" width="600" />
-  </a>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BzcHE1enlpMTFsYTN2eThqcTJmeWZqY3NqejQ4MHBncHZtamx5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyp27HFLLJsSk/giphy.gif" width="600" />
 </p>
+
 
 ---
 
