@@ -1,20 +1,37 @@
 # 👋 Hi, I'm Ryo
 
-🚀 **Full-Stack Developer | Cloud & Backend Enthusiast**  
-I love building scalable web apps, clean APIs, and modern user experiences.  
-Currently exploring **cloud-native architecture**, **serverless**, and **high-performance backend systems**.
+🚀 **Full-Stack Engineer | Cloud & Backend-Oriented**  
+I specialize in building **scalable web applications**, **clean APIs**, and **efficient system architectures**.  
+Experienced across frontend and backend, with a strong interest in **cloud-native systems**, **serverless architecture**, and **performance-oriented backend development**.
 
 ---
 
-
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BzcHE1enlpMTFsYTN2eThqcTJmeWZqY3NqejQ4MHBncHZtamx5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyp27HFLLJsSk/giphy.gif" width="600" />
+  <img 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BzcHE1enlpMTFsYTN2eThqcTJmeWZqY3NqejQ4MHBncHZtamx5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyp27HFLLJsSk/giphy.gif" 
+    width="600" 
+    alt="coding animation"
+  />
 </p>
 
+---
+
+## 🎵 Currently Listening
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31hw4pubwqxuj2vfmxuuiiqljgwe">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hw4pubwqxuj2vfmxuuiiqljgwe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=ff0000&bar_color_cover=false"
+      width="320"
+      alt="Spotify Now Playing"
+    />
+  </a>
+</p>
 
 ---
 
 ## 🌐 Connect with Me
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryonolimit1)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sazhumaa)
 
@@ -29,7 +46,7 @@ Currently exploring **cloud-native architecture**, **serverless**, and **high-pe
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🧩 Frameworks & Libraries
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-2C2052?style=for-the-badge&logo=astro&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -50,6 +67,7 @@ Currently exploring **cloud-native architecture**, **serverless**, and **high-pe
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
 ## 📊 GitHub Analytics
 
@@ -71,11 +89,12 @@ Currently exploring **cloud-native architecture**, **serverless**, and **high-pe
 
 ---
 
-## ✨ Fun Facts
-- ☕ Ngoding paling fokus sambil denger musik
-- 🔍 Suka backend logic & database design
-- 🚀 Target: **Cloud / Backend Engineer**
+## ✨ Highlights
+
+- ☕ Most productive while coding with music  
+- 🧠 Strong interest in backend logic & system design  
+- 🚀 Career goal: **Professional Full-Stack Engineer (Backend-leaning)**  
 
 ---
 
-> 💬 *“Code is not just about syntax, it's about solving real problems.”*
+> 💬 *“Great software is built by understanding problems deeply, not just writing code.”*
