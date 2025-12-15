@@ -22,6 +22,14 @@
 
 ---
 
+## 🌐 Connect with Me 🤝
+> **Let’s collaborate or connect**
+
+[![Instagram](https://img.shields.io/badge/Instagram-F97316?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ryonolimit1)
+[![GitHub](https://img.shields.io/badge/GitHub-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sazhumaa)
+
+---
+
 ## 💻 Tech Stack 🧰
 > **Core tools & technologies I actively use in production and learning projects**
 
@@ -80,14 +88,6 @@
     </td> 
   </tr> 
 </table>
-
----
-
-## 🌐 Connect with Me 🤝
-> **Let’s collaborate or connect**
-
-[![Instagram](https://img.shields.io/badge/Instagram-F97316?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ryonolimit1)
-[![GitHub](https://img.shields.io/badge/GitHub-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sazhumaa)
 
 ---
 
