@@ -22,6 +22,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sazhumaa&label=Profile%20Views&color=F97316&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/sazhumaa?label=Followers&style=for-the-badge&color=FB923C" />
+  <img src="https://img.shields.io/github/stars/sazhumaa?label=Stars&style=for-the-badge&color=F59E0B" />
+</p>
+
+
 ## 🌐 Connect with Me 🤝
 > **Let’s collaborate or connect**
 
