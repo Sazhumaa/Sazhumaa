@@ -62,13 +62,22 @@
 <table align="center"> 
   <tr> 
     <td align="center" style="border:2px solid #EF4444; border-radius:12px; padding:10px;"> 
-      <img src="https://github-readme-stats.vercel.app/api?username=sazhumaa&theme=radical&show_icons=true&hide_border=false&border_color=EF4444" /> </td> <td align="center" style="border:2px solid #EF4444;               border-radius:12px; padding:10px;"> 
-      <img src="https://nirzak-streak-stats.vercel.app/?user=sazhumaa&theme=radical&hide_border=false&border=EF4444" /> 
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=sazhumaa&theme=radical&show_icons=true&hide_border=false&border_color=EF4444" 
+      /> 
+    </td> 
+    <td align="center" style="border:2px solid #EF4444; border-radius:12px; padding:10px;"> 
+      <img 
+        src="https://nirzak-streak-stats.vercel.app/?user=sazhumaa&theme=radical&hide_border=false&border=EF4444" 
+      /> 
     </td> 
   </tr> 
   <tr> 
     <td colspan="2" align="center" style="border:2px solid #EF4444; border-radius:12px; padding:10px;"> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazhumaa&theme=radical&layout=compact&hide_border=false&border_color=EF4444" /> 
+      <img 
+        width="40%"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazhumaa&theme=radical&layout=compact&hide_border=false&border_color=EF4444" 
+      /> 
     </td> 
   </tr> 
 </table>
