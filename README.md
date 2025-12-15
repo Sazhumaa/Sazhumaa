@@ -1,102 +1,96 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=720&height=85&duration=3200&color=FF7A18&lines=🔥+Hi+There,+I'm+Ryo!+👋;🚀+Aspiring+Full-Stack+Developer" />
-</p>
+<div align="center">
 
-🚀 **Full-Stack Engineer | Backend & Cloud-Oriented**  
-I specialize in building **scalable web applications**, **clean APIs**, and **efficient system architectures**.  
-Focused on **backend performance**, **cloud-native systems**, and **serverless architecture**.
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=720&height=85&duration=3200&color=F59E0B&lines=Hi+There,+I'm+Ryo!;Aspiring+Full-Stack+Developer" />
 
----
+  <br/>
 
-<p align="center">
-  <img 
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BzcHE1enlpMTFsYTN2eThqcTJmeWZqY3NqejQ4MHBncHZtamx5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyp27HFLLJsSk/giphy.gif" 
-    width="400" 
+  <b>Full-Stack Engineer | Backend & Cloud-Oriented</b><br/>
+  I build <b>scalable web applications</b>, <b>clean APIs</b>, and <b>efficient system architectures</b>.<br/>
+  Focused on <b>backend performance</b>, <b>cloud-native systems</b>, and <b>serverless architecture</b>.
+
+  <br/><br/>
+
+  <img
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BzcHE1enlpMTFsYTN2eThqcTJmeWZqY3NqejQ4MHBncHZtamx5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyp27HFLLJsSk/giphy.gif"
+    width="380"
     alt="coding animation"
   />
-</p>
+
+</div>
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🚀 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-F59E0B?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FB923C?style=for-the-badge&logo=javascript&logoColor=000)
+![PHP](https://img.shields.io/badge/PHP-F97316?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-F59E0B?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🧩 Frameworks & Libraries
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-2C2052?style=for-the-badge&logo=astro&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-F59E0B?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FB923C?style=for-the-badge&logo=astro&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-F97316?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F59E0B?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![AWS](https://img.shields.io/badge/AWS-FB923C?style=for-the-badge&logo=amazon-aws&logoColor=232F3E)
+![Firebase](https://img.shields.io/badge/Firebase-F59E0B?style=for-the-badge&logo=firebase&logoColor=000)
+![Supabase](https://img.shields.io/badge/Supabase-F97316?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-FB923C?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-F59E0B?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F97316?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-F59E0B?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-FB923C?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🎨 Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FB923C?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-F59E0B?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-## 📊 GitHub Analytics
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sazhumaa&theme=aura_dark&show_icons=true&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=sazhumaa&theme=aura_dark&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazhumaa&theme=aura_dark&layout=compact&hide_border=true" />
-    </td>
-  </tr>
+📊 GitHub Analytics
+<table align="center"> 
+  <tr> 
+    <td align="center" style="border:2px solid #EF4444; border-radius:12px; padding:10px;"> 
+      <img src="https://github-readme-stats.vercel.app/api?username=sazhumaa&theme=radical&show_icons=true&hide_border=false&border_color=EF4444" /> </td> <td align="center" style="border:2px solid #EF4444;               border-radius:12px; padding:10px;"> 
+      <img src="https://nirzak-streak-stats.vercel.app/?user=sazhumaa&theme=radical&hide_border=false&border=EF4444" /> 
+    </td> 
+  </tr> 
+  <tr> 
+    <td colspan="2" align="center" style="border:2px solid #EF4444; border-radius:12px; padding:10px;"> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazhumaa&theme=radical&layout=compact&hide_border=false&border_color=EF4444" /> 
+    </td> 
+  </tr> 
 </table>
 
 ---
 
 ## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryonolimit1)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sazhumaa)
+[![Instagram](https://img.shields.io/badge/Instagram-F97316?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ryonolimit1)
+[![GitHub](https://img.shields.io/badge/GitHub-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sazhumaa)
 
 ---
 
 ## 🎵 Currently Listening
 
-<p align="center">
-  <a href="https://open.spotify.com/user/31hw4pubwqxuj2vfmxuuiiqljgwe">
-    <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hw4pubwqxuj2vfmxuuiiqljgwe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=ff0000&bar_color_cover=false"
-      width="320"
-      alt="Spotify Now Playing"
-    />
-  </a>
-</p>
+<a href="https://open.spotify.com/user/31hw4pubwqxuj2vfmxuuiiqljgwe">
+  <img
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hw4pubwqxuj2vfmxuuiiqljgwe&cover_image=true&theme=default&show_offline=true&background_color=FED7AA&interchange=true&bar_color=F59E0B&bar_color_cover=false"
+    width="320"
+    alt="Spotify Now Playing"
+  />
+</a>
 
 ---
 
 ## ✨ Highlights
 
 - ☕ Most productive while coding with music  
-- 🧠 Strong interest in backend logic & system design  
+- 🧠 Enjoys backend logic & system design  
 - 🚀 Career goal: **Professional Full-Stack Engineer (Backend-leaning)**  
 
----
-
-> 💬 *“Great software is built by understanding problems deeply, not just writing code.”*
+> *“Great software is built by understanding problems deeply, not just writing code.”*
