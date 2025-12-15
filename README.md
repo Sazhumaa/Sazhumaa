@@ -7,8 +7,8 @@
   <br/>
 
   <b>🧑‍💻 Full-Stack Engineer | Backend & Cloud-Oriented ☁️</b><br/>
-  Building <b>scalable web applications</b> ⚙️, <b>clean APIs</b> 🔌, and <b>efficient system architectures</b> 🧱.<br/>
-  Strong focus on <b>backend performance</b> 🚀, <b>cloud-native systems</b> ☁️, and <b>serverless architecture</b> ⚡.
+  Building <b>scalable web applications</b>, <b>clean APIs</b>, and <b>efficient system architectures</b>.<br/>
+  Strong focus on <b>backend performance</b>, <b>cloud-native systems</b>, and <b>serverless architecture</b>.
 
   <br/><br/>
 
