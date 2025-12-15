@@ -1,12 +1,15 @@
+<!-- ===== HERO / ABOUT ME ===== -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=720&height=85&duration=3200&color=F59E0B&lines=Hi+There,+I'm+Ryo!;Aspiring+Full-Stack+Developer" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=720&height=85&duration=3200&color=F59E0B&lines=Hi+There,+I'm+Ryo!;Aspiring+Full-Stack+Developer" 
+  />
 
   <br/>
 
   <b>Full-Stack Engineer | Backend & Cloud-Oriented</b><br/>
-  I build <b>scalable web applications</b>, <b>clean APIs</b>, and <b>efficient system architectures</b>.<br/>
-  Focused on <b>backend performance</b>, <b>cloud-native systems</b>, and <b>serverless architecture</b>.
+  Building <b>scalable web applications</b>, <b>clean APIs</b>, and <b>efficient system architectures</b>.<br/>
+  Strong focus on <b>backend performance</b>, <b>cloud-native systems</b>, and <b>serverless architecture</b>.
 
   <br/><br/>
 
@@ -21,6 +24,7 @@
 ---
 
 ## 💻 Tech Stack
+> **Core tools & technologies I actively use in production and learning projects**
 
 ### 🚀 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-F59E0B?style=for-the-badge&logo=typescript&logoColor=white)
@@ -51,7 +55,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-F59E0B?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-📊 GitHub Analytics
+
+## 📊 GitHub Analytics
+> **Activity & contribution overview**
+
 <table align="center"> 
   <tr> 
     <td align="center" style="border:2px solid #EF4444; border-radius:12px; padding:10px;"> 
@@ -69,6 +76,7 @@
 ---
 
 ## 🌐 Connect with Me
+> **Let’s collaborate or connect**
 
 [![Instagram](https://img.shields.io/badge/Instagram-F97316?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ryonolimit1)
 [![GitHub](https://img.shields.io/badge/GitHub-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sazhumaa)
@@ -76,21 +84,25 @@
 ---
 
 ## 🎵 Currently Listening
+> **Music that fuels my coding sessions**
 
-<a href="https://open.spotify.com/user/31hw4pubwqxuj2vfmxuuiiqljgwe">
-  <img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hw4pubwqxuj2vfmxuuiiqljgwe&cover_image=true&theme=default&show_offline=true&background_color=FED7AA&interchange=true&bar_color=F59E0B&bar_color_cover=false"
-    width="320"
-    alt="Spotify Now Playing"
-  />
-</a>
+<div align="center">
+  <a href="https://open.spotify.com/user/31hw4pubwqxuj2vfmxuuiiqljgwe">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hw4pubwqxuj2vfmxuuiiqljgwe&cover_image=true&theme=default&show_offline=true&background_color=FED7AA&interchange=true&bar_color=F59E0B&bar_color_cover=false"
+      width="320"
+      alt="Spotify Now Playing"
+    />
+  </a>
+</div>
 
 ---
 
 ## ✨ Highlights
+> **Personal traits & career direction**
 
 - ☕ Most productive while coding with music  
-- 🧠 Enjoys backend logic & system design  
+- 🧠 Enjoys backend logic, optimization & system design  
 - 🚀 Career goal: **Professional Full-Stack Engineer (Backend-leaning)**  
 
 > *“Great software is built by understanding problems deeply, not just writing code.”*
