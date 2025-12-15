@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Ryo
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=720&height=85&duration=3200&color=FF7A18&lines=🔥+Hi+There,+I'm+Ryo!+👋;🚀+Aspiring+Full-Stack+Developer" />
+</p>
 
-🚀 **Full-Stack Engineer | Cloud & Backend-Oriented**  
+🚀 **Full-Stack Engineer | Backend & Cloud-Oriented**  
 I specialize in building **scalable web applications**, **clean APIs**, and **efficient system architectures**.  
-Experienced across frontend and backend, with a strong interest in **cloud-native systems**, **serverless architecture**, and **performance-oriented backend development**.
+Focused on **backend performance**, **cloud-native systems**, and **serverless architecture**.
 
 ---
 
