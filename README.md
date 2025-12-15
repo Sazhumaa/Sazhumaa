@@ -89,23 +89,6 @@
   </tr> 
 </table>
 
----
-
-## 🎵 Currently Listening 🎧
-> **Music that fuels my coding sessions**
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31hw4pubwqxuj2vfmxuuiiqljgwe">
-    <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hw4pubwqxuj2vfmxuuiiqljgwe&cover_image=true&theme=default&show_offline=true&background_color=FED7AA&interchange=true&bar_color=F59E0B&bar_color_cover=false"
-      width="320"
-      alt="Spotify Now Playing"
-    />
-  </a>
-</div>
-
----
-
 ## ✨ Highlights ✨
 > **Personal traits & career direction**
 
