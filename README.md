@@ -1,15 +1,14 @@
-<!-- ===== HERO / ABOUT ME ===== -->
 <div align="center">
 
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=720&height=85&duration=3200&color=F59E0B&lines=Hi+There,+I'm+Ryo!;Aspiring+Full-Stack+Developer" 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=720&height=85&duration=3200&color=F59E0B&lines=Hi+There,+I'm+Ryo!+👋;Aspiring+Full-Stack+Developer+🚀" 
   />
 
   <br/>
 
-  <b>Full-Stack Engineer | Backend & Cloud-Oriented</b><br/>
-  Building <b>scalable web applications</b>, <b>clean APIs</b>, and <b>efficient system architectures</b>.<br/>
-  Strong focus on <b>backend performance</b>, <b>cloud-native systems</b>, and <b>serverless architecture</b>.
+  <b>🧑‍💻 Full-Stack Engineer | Backend & Cloud-Oriented ☁️</b><br/>
+  Building <b>scalable web applications</b> ⚙️, <b>clean APIs</b> 🔌, and <b>efficient system architectures</b> 🧱.<br/>
+  Strong focus on <b>backend performance</b> 🚀, <b>cloud-native systems</b> ☁️, and <b>serverless architecture</b> ⚡.
 
   <br/><br/>
 
@@ -23,7 +22,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack 🧰
 > **Core tools & technologies I actively use in production and learning projects**
 
 ### 🚀 Languages
@@ -56,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics 📈
 > **Activity & contribution overview**
 
 <table align="center"> 
@@ -84,7 +83,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me 🤝
 > **Let’s collaborate or connect**
 
 [![Instagram](https://img.shields.io/badge/Instagram-F97316?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ryonolimit1)
@@ -92,7 +91,7 @@
 
 ---
 
-## 🎵 Currently Listening
+## 🎵 Currently Listening 🎧
 > **Music that fuels my coding sessions**
 
 <div align="center">
@@ -107,11 +106,11 @@
 
 ---
 
-## ✨ Highlights
+## ✨ Highlights ✨
 > **Personal traits & career direction**
 
 - ☕ Most productive while coding with music  
 - 🧠 Enjoys backend logic, optimization & system design  
 - 🚀 Career goal: **Professional Full-Stack Engineer (Backend-leaning)**  
 
-> *“Great software is built by understanding problems deeply, not just writing code.”*
+> 💬 *“Great software is built by understanding problems deeply, not just writing code.”*
