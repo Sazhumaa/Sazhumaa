@@ -68,6 +68,13 @@ Experienced across frontend and backend, with a strong interest in **cloud-nativ
 
 ---
 
+## 🌐 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryonolimit1)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sazhumaa)
+
+---
+
 ## 🎵 Currently Listening
 
 <p align="center">
@@ -79,15 +86,6 @@ Experienced across frontend and backend, with a strong interest in **cloud-nativ
     />
   </a>
 </p>
-
----
-
-## 🌐 Connect with Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryonolimit1)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sazhumaa)
-
-
 
 ---
 
