@@ -11,7 +11,7 @@
   <br/><br/>
 
   <img
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3BzcHE1enlpMTFsYTN2eThqcTJmeWZqY3NqejQ4MHBncHZtamx5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dyp27HFLLJsSk/giphy.gif"
+    src="https://i.pinimg.com/originals/6d/ac/c1/6dacc1ddcf802d216a4462598da3aa90.gif"
     width="380"
     alt="coding animation"
   />
