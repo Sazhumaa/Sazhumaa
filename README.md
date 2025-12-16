@@ -1,6 +1,7 @@
 <div align="center">
 
   <img 
+    
     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=720&height=85&duration=3200&color=F59E0B&lines=Hi+There,+I'm+Ryo!+👋;Aspiring+Full-Stack+Developer+🚀" 
   />
 
