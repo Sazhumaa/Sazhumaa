@@ -5,7 +5,6 @@
   />
 
   <br/>
-  ---
 
   <b>🧑‍💻 Full-Stack Engineer | Backend & Cloud-Oriented ☁️</b><br/>
   Building <b>scalable web applications</b>, <b>clean APIs</b>, and <b>efficient system architectures</b>.<br/>
