@@ -96,6 +96,7 @@
   </tr> 
 </table>
 
+
 ## ✨ Highlights ✨
 > **Personal traits & career direction**
 
